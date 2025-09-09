@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Moa-bot
-- 👀 I’m interested in Python Developing
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m @Moa
+- 👀 I’m interested in NextJS
 - 💞️ I’m create Custom Discord Bots
 
 
